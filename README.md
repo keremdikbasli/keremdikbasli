@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kerem Dikbaşlı </h1>
-<h3 align="center">Data Scientist | Business Analyst </h3>
+<h3 align="center"> Jr. Data Scientist | Business Analyst </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/keremdikbasli" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="keremdikbasli" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kerem-dikbasli/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="keremdikbasli" height="30" width="40" /></a>  
