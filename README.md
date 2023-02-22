@@ -49,6 +49,7 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg"></code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/SPSS.png"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
