@@ -46,7 +46,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg"></code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg"></code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/SPSS.png"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
