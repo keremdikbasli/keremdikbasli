@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/kerem-dikbasli/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="keremdikbasli" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/keremdikbasli/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="keremdikbasli" height="30" width="40" /></a>
  <a href = " https://www.kaggle.com/keremdikbasli"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" height="30" width="40" /></a>
- <a href = "mailto: keremdikbasli@gmail.com"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svgg" height="30" width="40" /></a>
+ <a href = "mailto: keremdikbasli@gmail.com"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="30" width="40" /></a>
 </p>
 </p>
 
