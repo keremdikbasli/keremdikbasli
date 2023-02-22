@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kerem Dikbaşlı </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Data Scientist | Business Analyst </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/keremdikbasli" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="keremdikbasli" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kerem-dikbasli/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="keremdikbasli" height="30" width="40" /></a>  
@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Kerem Dibaşlı a <b>final year</b> undergraduate from <a href="https://www.hacettepe.edu.tr/"> <b>Hacettepe University </b>, </a>. <br>
+    Hello, I am Kerem Dibaşlı a <b>final year</b> undergraduate from <a href="https://www.hacettepe.edu.tr/"> <b> Hacettepe University </b> </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
