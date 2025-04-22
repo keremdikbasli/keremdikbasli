@@ -5,7 +5,7 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Artifical%20Intelligence-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Turkey-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-brightgreen" />
 </p>
